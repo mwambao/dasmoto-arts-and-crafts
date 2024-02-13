@@ -1,0 +1,33 @@
+.main-heading{
+    background-image: url(images/image1.jpeg);
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    color: yellow;
+}
+
+.brushes {
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+
+.paint {
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    color: sky;
+    background-color: skyblue;
+}
